@@ -64,13 +64,15 @@ Checks for common issues that may prevent users from accessing your content.
 
 Looks for everything from HTTPS usage to correct image aspect ratios.
 
-### SEO
+### SEO 
 
 Checks for best practices to ensure your site is discoverable.
+
 
 ## Demo
 
 Check the live demo here 👉️ https://landy-web.netlify.app/
+
 
 ### Installation
 
